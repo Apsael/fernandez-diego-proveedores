@@ -2,7 +2,7 @@
 
 ## Estudiante
 
-Fernández Diego
+Fernández Romero Diego Andrés
 
 ## Descripción
 
